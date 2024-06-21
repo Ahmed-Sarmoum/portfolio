@@ -1,0 +1,121 @@
+.main {
+     width: 90%;
+     padding: 20px 10px;
+     margin: 0px auto;
+     margin-top: 4rem;
+   }
+   .greet-main {
+     width: 90%;
+     padding: 20px 10px;
+     margin: 0px auto;
+     margin-top: 2rem;
+   }
+   
+   .gretting-main {
+     width: 90%;
+     padding: 20px 10px;
+     margin: 0px auto;
+   }
+   
+   .greeting-main {
+     display: flex;
+   }
+   
+   .greeting-main > * {
+     flex: 1;
+     margin-bottom: 30px;
+   }
+   .button-greeting-div {
+     display: flex;
+     margin-top: 20px;
+   }
+   
+   .greeting-text2,
+   .greeting-text {
+     margin-top: 30px;
+     font-size: 70px;
+     line-height: 1.1;
+     font-family: "Google Sans Bold";
+   }
+   
+   .greeting-nickname {
+     font-size: 30px;
+     margin-top: 20px;
+     line-height: 0px;
+     font-family: "Google Sans Bold Italic";
+   }
+   
+   .greeting-text-p {
+     font-size: 40px;
+     margin-top: 30px;
+     padding-left: 20px;
+     padding-right: 20px;
+     line-height: 40px;
+     margin-right: 40px;
+     font-family: "Google Sans Medium";
+   }
+   
+   .greeting-image-div > * {
+     max-width: 100%;
+     height: auto;
+     margin-top: -40px;
+   }
+   
+   /* Media Query */
+   @media (max-width: 1380px) {
+    .greeting-text2,
+     .greeting-text {
+       font-size: 50px;
+       margin-top: 30px;
+     }
+     .greeting-text2 {
+       font-size: 50px;
+       margin-top: 0px;
+     }
+     .greeting-text-p {
+       margin-top: 30px;
+       font-size: 20px;
+     }
+   }
+   @media (max-width: 768px) {
+
+    .greeting-image-div > * {
+      max-width: 100%;
+      height: auto;
+      margin-top: 30px;
+    }
+     .button-greeting-div {
+       justify-content: space-around;
+     }
+     .greeting-text {
+       font-size: 30px;
+       margin-top: -40px;
+       text-align: center;
+     }
+     .greeting-text2 {
+      font-size: 30px;
+      margin-top: 10px;
+      text-align: center;
+    }
+     .greeting-nickname {
+       font-size: 19px;
+       text-align: center;
+     }
+     .greeting-text-p {
+       margin-top: 20px;
+       font-size: 16px;
+       margin-right: 0px;
+       line-height: normal;
+       text-align: center;
+     }
+     .greeting-main {
+       display: block;
+     }
+   
+     .portfolio-repo-btn-div {
+       width: 100%;
+       display: flex;
+       justify-content: center;
+     }
+   }
+   
