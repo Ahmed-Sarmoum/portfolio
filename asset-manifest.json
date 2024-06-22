@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce608d35.chunk.css",
+    "main.js": "/static/js/main.6d6f4a40.chunk.js",
+    "main.js.map": "/static/js/main.6d6f4a40.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce56c437.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce56c437.js.map",
+    "static/css/2.1fb90f1e.chunk.css": "/static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.cb90bb15.chunk.js": "/static/js/2.cb90bb15.chunk.js",
+    "static/js/2.cb90bb15.chunk.js.map": "/static/js/2.cb90bb15.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1fb90f1e.chunk.css.map": "/static/css/2.1fb90f1e.chunk.css.map",
+    "static/css/main.ce608d35.chunk.css.map": "/static/css/main.ce608d35.chunk.css.map",
+    "static/js/2.cb90bb15.chunk.js.LICENSE.txt": "/static/js/2.cb90bb15.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/advanced_sql.ce39ce8c.svg": "/static/media/advanced_sql.ce39ce8c.svg",
+    "static/media/android_robot.50f261e9.png": "/static/media/android_robot.50f261e9.png",
+    "static/media/data_visualisation.9baa8d6a.svg": "/static/media/data_visualisation.9baa8d6a.svg",
+    "static/media/dynamic_website.ac45f07e.png": "/static/media/dynamic_website.ac45f07e.png",
+    "static/media/all.css": "/static/media/fa-solid-900.decfdcb6.svg",
+    "static/media/feature_engineering.d48a71a7.svg": "/static/media/feature_engineering.d48a71a7.svg",
+    "static/media/intermid_ml.730f9d5f.svg": "/static/media/intermid_ml.730f9d5f.svg",
+    "static/media/intro_ml.f7e09289.svg": "/static/media/intro_ml.f7e09289.svg",
+    "static/media/intro_sql.7525cbc5.svg": "/static/media/intro_sql.7525cbc5.svg",
+    "static/media/kaggle.4230fd90.png": "/static/media/kaggle.4230fd90.png",
+    "static/media/logo_tejarati.3f76dbe6.png": "/static/media/logo_tejarati.3f76dbe6.png",
+    "static/media/logo_univ.b91384f6.png": "/static/media/logo_univ.b91384f6.png",
+    "static/media/moi.d04184a0.png": "/static/media/moi.d04184a0.png",
+    "static/media/pandas.d874a929.svg": "/static/media/pandas.d874a929.svg",
+    "static/media/python.9469a25c.svg": "/static/media/python.9469a25c.svg",
+    "static/media/softMes.5eaf5bd2.png": "/static/media/softMes.5eaf5bd2.png",
+    "static/media/websiteMes.cbe00933.png": "/static/media/websiteMes.cbe00933.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce56c437.js",
+    "static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.cb90bb15.chunk.js",
+    "static/css/main.ce608d35.chunk.css",
+    "static/js/main.6d6f4a40.chunk.js"
+  ]
+}
