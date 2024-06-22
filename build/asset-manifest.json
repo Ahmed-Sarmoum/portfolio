@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3d0b0132.chunk.css",
+    "main.js": "/portfolio/static/js/main.6d6f4a40.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6d6f4a40.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.4f3ffabf.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.4f3ffabf.js.map",
+    "static/css/2.1fb90f1e.chunk.css": "/portfolio/static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.6dafd27d.chunk.js": "/portfolio/static/js/2.6dafd27d.chunk.js",
+    "static/js/2.6dafd27d.chunk.js.map": "/portfolio/static/js/2.6dafd27d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.1fb90f1e.chunk.css.map": "/portfolio/static/css/2.1fb90f1e.chunk.css.map",
+    "static/css/main.3d0b0132.chunk.css.map": "/portfolio/static/css/main.3d0b0132.chunk.css.map",
+    "static/js/2.6dafd27d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6dafd27d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/advanced_sql.ce39ce8c.svg": "/portfolio/static/media/advanced_sql.ce39ce8c.svg",
+    "static/media/android_robot.50f261e9.png": "/portfolio/static/media/android_robot.50f261e9.png",
+    "static/media/data_visualisation.9baa8d6a.svg": "/portfolio/static/media/data_visualisation.9baa8d6a.svg",
+    "static/media/dynamic_website.ac45f07e.png": "/portfolio/static/media/dynamic_website.ac45f07e.png",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.decfdcb6.svg",
+    "static/media/feature_engineering.d48a71a7.svg": "/portfolio/static/media/feature_engineering.d48a71a7.svg",
+    "static/media/intermid_ml.730f9d5f.svg": "/portfolio/static/media/intermid_ml.730f9d5f.svg",
+    "static/media/intro_ml.f7e09289.svg": "/portfolio/static/media/intro_ml.f7e09289.svg",
+    "static/media/intro_sql.7525cbc5.svg": "/portfolio/static/media/intro_sql.7525cbc5.svg",
+    "static/media/kaggle.4230fd90.png": "/portfolio/static/media/kaggle.4230fd90.png",
+    "static/media/logo_tejarati.3f76dbe6.png": "/portfolio/static/media/logo_tejarati.3f76dbe6.png",
+    "static/media/logo_univ.b91384f6.png": "/portfolio/static/media/logo_univ.b91384f6.png",
+    "static/media/moi.d04184a0.png": "/portfolio/static/media/moi.d04184a0.png",
+    "static/media/pandas.d874a929.svg": "/portfolio/static/media/pandas.d874a929.svg",
+    "static/media/python.9469a25c.svg": "/portfolio/static/media/python.9469a25c.svg",
+    "static/media/softMes.5eaf5bd2.png": "/portfolio/static/media/softMes.5eaf5bd2.png",
+    "static/media/websiteMes.cbe00933.png": "/portfolio/static/media/websiteMes.cbe00933.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f3ffabf.js",
+    "static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.6dafd27d.chunk.js",
+    "static/css/main.3d0b0132.chunk.css",
+    "static/js/main.6d6f4a40.chunk.js"
+  ]
+}

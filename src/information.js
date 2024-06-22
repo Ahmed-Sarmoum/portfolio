@@ -1,34 +1,35 @@
 const settings = {
-  isSplash: true
-}
+  isSplash: true,
+};
 
 // Seo related settings
 const seo = {
   title: "Ahmed SARMOUM",
-  description: 'My goal is to work on end products that develop sustainable and scalable social and technology systems to make an impact.',
+  description:
+    "My goal is to work on end products that develop sustainable and scalable social and technology systems to make an impact.",
   og: {
     title: "Ahmed SARMOUM Portfolio",
     type: "website",
-    url: "https://ahmedsarmoum.com/"
-  }
-}
+    url: "https://ahmedsarmoum.com/",
+  },
+};
 
 //Home Page
 const greeting = {
   title: "Hi there, I'm ",
-  logo_name: 'Ahmed Sarmoum',
+  logo_name: "Ahmed Sarmoum",
   nickname: "Ahmed SARMOUM",
   subTitle:
     "My goal is to work on end products that develop sustainable and scalable social and technology systems to make an impact.",
   resumeLink: "",
-  portfolio_repository: ""
-}
+  portfolio_repository: "",
+};
 
 // Social Media Links
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/Ahmed-dev-vpc",
+    link: "https://github.com/Ahmed-Sarmoum",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -56,7 +57,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
-]
+];
 
 const skills = {
   data: [
@@ -295,7 +296,6 @@ const skills = {
     //    ],
     //  },
   ],
-
 };
 
 // Education Page
@@ -526,8 +526,7 @@ const experience = {
       logo_path: "logo192.png",
       duration: "Jun 2021 - August 2021",
       location: "Khemis Miliana, Ain Defla",
-      description:
-        "Portfolio for show some skills 😁😁😁😁😁",
+      description: "Portfolio for show some skills 😁😁😁😁😁",
       color: "#0879bf",
     },
     {
@@ -538,8 +537,7 @@ const experience = {
       logo_path: "legato_logo.png",
       duration: "February 2021 - PRESENT",
       location: "Khemis Miliana, Ain Defla",
-      description:
-        "Medical laboratory management software",
+      description: "Medical laboratory management software",
       color: "#0879bf",
     },
     {
@@ -561,24 +559,24 @@ const experience = {
       id: 4,
       title: "Android Application",
       company: "Mesanalyses",
-      company_url: "https://play.google.com/store/apps/details?id=dz.mesanalyses.mesanalyses",
+      company_url:
+        "https://play.google.com/store/apps/details?id=dz.mesanalyses.mesanalyses",
       logo_path: "freecopy_logo.png",
       duration: "August 2020 - October 2020",
       location: "Khemis Miliana, Ain Defla",
-      description:
-        `Android application is a comprehensive directory of medical analysis laboratories this app to provide you with the best service for locating and downloading online analysis results and the most reliable information about analytical laboratories`,
+      description: `Android application is a comprehensive directory of medical analysis laboratories this app to provide you with the best service for locating and downloading online analysis results and the most reliable information about analytical laboratories`,
       color: "#8E24AA",
     },
     {
       id: 5,
       title: "tejarati DZ (Android Application)",
       company: "Ahmed SARMOUM",
-      company_url: "https://play.google.com/store/apps/details?id=dz.sarmoumahmed.havente",
+      company_url:
+        "https://play.google.com/store/apps/details?id=dz.sarmoumahmed.havente",
       logo_path: "logo_tejarati.png",
       duration: "January 2020 - June 2020",
       location: "Theniet el had, Tissemsilt",
-      description:
-        `Buying and Selling Department, 
+      description: `Buying and Selling Department, 
             Managing internal and external debt, 
             Notice to the user that the product is out of stock, 
             Statistics of all sales and expenses on a daily and monthly basis, 
@@ -593,12 +591,10 @@ const experience = {
       logo_path: "dynamic_website.png",
       duration: "July 2020 - January 2021",
       location: "Khemis Miliana, Ain Defla",
-      description:
-        `A website for medical laboratories, where the laboratory can fully control the website through an integrated control panel`,
+      description: `A website for medical laboratories, where the laboratory can fully control the website through an integrated control panel`,
       color: "#00897B",
     },
   ],
-
 };
 
 // Projects Page

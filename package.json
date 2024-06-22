@@ -1,21 +1,26 @@
 {
+  "private": true,
   "name": "my_website",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://ahmed-sarmoum.github.io/portfolio/",
+  "scripts": {
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "apollo-boost": "^0.4.9",
     "baseui": "^9.116.3",
     "bootstrap": "^5.0.2",
     "chart.js": "^3.4.1",
     "fs": "0.0.1-security",
     "google-map-react": "^2.1.10",
     "google-maps-react": "^2.0.6",
-    "graphql": "^15.5.1",
-    "node-fetch": "^2.6.1",
-    "node-sass": "^6.0.1",
     "prettier-package-json": "^2.6.0",
     "radium": "^0.26.1",
     "react": "^17.0.2",
@@ -31,14 +36,25 @@
     "styletron-react": "^6.0.1",
     "web-vitals": "^1.1.2"
   },
-  "scripts": {
-    "homepage": "https://Ahmed-Sarmoum.github.io/react-portfolio",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "devDependencies": {
+    "@iconify/icons-logos": "^1.0.9",
+    "@iconify/react": "^1.1.4",
+    "gh-pages": "^3.2.3",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "2.0.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "eslintConfig": {
     "extends": [
@@ -54,25 +70,5 @@
   "lint-staged": {
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@iconify/icons-logos": "^1.0.9",
-    "@iconify/react": "^1.1.4",
-    "gh-pages": "^3.2.3",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "2.0.5"
   }
 }
